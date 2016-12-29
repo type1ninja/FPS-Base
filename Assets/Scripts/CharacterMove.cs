@@ -8,7 +8,7 @@ public class CharacterMove : MonoBehaviour {
 
 	CharacterController controller;
 
-	float speed = 20.0f;
+	float speed = 10.0f;
 	float jumpSpeed = 5.0f;
 	float gravity = Physics.gravity.y;
 
